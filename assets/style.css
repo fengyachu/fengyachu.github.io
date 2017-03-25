@@ -1,0 +1,169 @@
+.background-image {
+    background: url(../images/background.gif);
+    background-size: 16%;
+    background-repeat: repeat;
+}
+
+.navbar-default {
+    border: none;
+    box-shadow: none;
+    background-image: none;
+    background-color: rgba(255,255,255,0.6);
+}
+
+h3 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.space {
+    padding: 20vw;
+}
+
+
+
+.inspiration1 {
+    background-color: black;
+}
+
+.titleinspire {
+    color: white;
+    font-size: 18px;
+}
+
+
+.title1 {
+    position: absolute;
+    top: 10vw;
+    left: 20vw;
+}
+
+.titlebackground{
+    background-color: black;
+    float: left;
+}
+
+.textalign {
+    text-align: center;
+    align-self: center;
+}
+
+.titleinspire1{
+    padding: 48px;
+    color: white;
+}
+
+.snooping1{
+    background: url(../images/final1.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.space2{
+    padding: 100px 0px;
+}
+
+.introduction{
+    color: white;
+}
+
+.snooppeople{
+    padding:24px 8px 20px 20px;
+}
+
+.titlefont{
+    font-size: 18px;
+    margin: 24px 0px;
+    text-align: left;
+}
+
+.parafont{
+    font-size: 14px;
+    text-align: left;
+}
+
+mark {
+    background-color: black;
+    color: white;
+}
+
+.lineheight{
+    line-height: 1.8em;
+}
+
+.effect1{
+    padding: 5px 0px;
+}
+
+.effect2{
+    padding: 5px 0px;
+}
+
+.jumbotron{
+    background: none;
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;  
+}
+
+
+.glyphicon-chevron-down:hover {
+    color: blue;
+}
+
+.glyphicon-chevron-down {
+    font-size: 30px;
+    margin-top: 20px;
+    color: black;
+}
+
+.btn {
+    margin-top: 50px;
+    margin-bottom: 40px;
+    background: transparent;
+}
+
+.btn:hover{
+    text-shadow: none;
+    color: white;
+    background: black;
+}
+
+.process{
+    margin: 20px 0px;
+}
+
+.approach{
+    margin: 100px 8px;
+}
+
+.contact {
+    font-size: 30px;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto; 
+}
+
+.title3 {
+    position: absolute;
+    top: 20vw;
+    left: 36vw;
+}
+
+.profile{
+    padding: 30px 0px;
+}
+
+.list-group{
+    padding-top:20px; 
+}
+
+.testimony{
+    font-size:30px;
+    padding:20px 0px;
+}
+
+.textaligncenter{
+    text-align: center;
+}
